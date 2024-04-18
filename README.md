@@ -1,9 +1,4 @@
-# BBBBB   RRRRR   U   U   U   U   TTTTT	DDDDD        AAA      DDDDDD     DDDDDD     YY    YY
-# B   B   R   R   U   U   U   U     T  	DD   DD     AA AA     DD    DD   DD    DD    YY  YY
-# BBBBB   RRRRR   U   U   U   U     T  	DD     DD  AA   AA    DD     DD  DD     DD     YY
-# B   B   R  R    U   U   U   U     T  	DD    DD  AAAAAAAAA   DD    DD   DD    DD      YY
-# BBBBB   R   R    UUU     UUU      T  	DDDDD	 AA       AA  DDDDDD     DDDDDD	       YY
-
+# **BRUUT DADDY**
 ### *By DrJunkHoofd*
 
 
